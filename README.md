@@ -30,7 +30,7 @@ Using the micro:bit function [`pins.i2cWriteNumber`](https://makecode.microbit.o
 
 File: [sample.js](sample.js)
 
-Demo: [https://imgur.com/gallery/g4rBAg3](https://imgur.com/gallery/g4rBAg3)
+Image: [Captured I2C frame](images/rigol-1104z-oscilloscope.jpg)
 
 
 
